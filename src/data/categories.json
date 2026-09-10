@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cat-1",
+    "title": "Main Savings",
+    "percentage": "30%",
+    "description": "Tech, long-term goals",
+    "balance": 0,
+    "spent": 0
+  },
+  {
+    "id": "cat-2",
+    "title": "Snacks & Dining",
+    "percentage": "15%",
+    "description": "Coffee, takeout, lemonades",
+    "balance": 0,
+    "spent": 0
+  },
+  {
+    "id": "cat-3",
+    "title": "Gaming & Social",
+    "percentage": "15%",
+    "description": "Skins, games, hangouts",
+    "balance": 0,
+    "spent": 0
+  },
+  {
+    "id": "cat-4",
+    "title": "Casual Savings",
+    "percentage": "10%",
+    "description": "Short-term buffer",
+    "balance": 0,
+    "spent": 0
+  },
+  {
+    "id": "cat-5",
+    "title": "Personal Care",
+    "percentage": "10%",
+    "description": "Nails, hair, vitamins, perfume",
+    "balance": 0,
+    "spent": 0
+  },
+  {
+    "id": "cat-6",
+    "title": "Learning & Reading",
+    "percentage": "10%",
+    "description": "Books, Spotify, language apps, subscriptions",
+    "balance": 0,
+    "spent": 0
+  },
+  {
+    "id": "cat-7",
+    "title": "Shopping & Apparel",
+    "percentage": "10%",
+    "description": "Clothes, shoes, bags",
+    "balance": 0,
+    "spent": 0
+  }
+]
